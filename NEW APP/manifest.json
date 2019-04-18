@@ -1,0 +1,20 @@
+{
+    "name":"SOLUCION DE CIRCUITOS Por: Aaron Mejia", 
+    "short_name":"Circuitos", 
+    "description":"Bienvenido, a tu aplicacion PWA donde podras realizar todo tipo de solucion de circuitos, desarrollado por: Aaron Hernan Mejia Ceja",
+    "background_color":"white",
+    "theme_color":"gray",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons": [
+        {
+          "src": "imagenes/itcg.png",
+          "sizes": "1024x1024",
+          "type": "image/png"
+        }
+        ] 
+    }
+
